@@ -13,4 +13,4 @@
   Merge the columns that describe the year information into one column.
 
 - `filter.R`  
-  Information processing and drawing.
+  Information processing.
