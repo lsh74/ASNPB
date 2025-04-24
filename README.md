@@ -55,7 +55,7 @@ Complete pipeline for **neoantigen prediction** derived from aging-related AS ev
 
 Jupyter notebooks used to generate the **main figures** in the manuscript, facilitating full reproducibility.
 
-> ![Figure Example](./Figures/Overview.png)  
+> ![Overview](./Figures/Overview.png)  
 > _Overview of all main images_
 
 ### `6_Results/`
