@@ -52,24 +52,20 @@ Complete pipeline for **neoantigen prediction** derived from aging-related AS ev
 - Validation using proteomic data from elderly blood samples
 
 ### `5_Figures/`
+
 Jupyter notebooks used to generate the **main figures** in the manuscript, facilitating full reproducibility.
 
 > ![Figure Example](./Figures/Overview.png)  
-> _overview of all main images_
+> _Overview of all main images_
 
-📌 To render `.ipynb` figures locally, install Jupyter and run:
-
-```bash
-jupyter notebook Figures/Figures.ipynb
-
-### `6_Figures/`
+### `6_Results/`
 Key processed result files, such as:
 
 - noCM_list.RData: Filtered list of candidate events not present in cancer-related CM group
 
 - Differential expression matrices, rMATS results, NetMHC predictions, etc.
 
-### 📧 Contact
+## 📧 Contact
 
 📬 lishuhan1@stu.kust.edu.cn
 
